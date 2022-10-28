@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Digital Portolio</title>
+    <link rel="stylesheet" href="default.css">
+    
+  </head>
+
+  <body> 
+
+
+    <h1><center>Kabeer Pandya's Digital Portfolio</center></h1>
+
+    <a href="CS-I/index.html"><h2>Advanced Computer Science I</h2></a>
+    <h2><br><br>
+      About me</h2>
+    <p> I am 15 years old from allen high school. <br>
+      My hobbies include computers, video games, and math
+      <br>
+      I am a person works hard when the time comes. I really enjoy spending time with my family and friends
+      <br>
+      I am doing computer science because it is very well paying career in the future. My currents hope is that i will get into a good college and get a well paying job in a computer science or mathmatics
+      <br>
+      I ALSO REALLY LIKE CHEESE
+    </p>
+    
+    <h2><br><br>Why this is important</h2>
+    <p>It is important to have a Digitl portfolio because it is a grade and will house all my work.
+      <br>
+      It will also make it easy to see how I progress throught my career.
+      <br>
+      This will also help to easily acsess all my work and journals that I can use as notes.
+      <br></p>
+  </body>
+  </html>
